@@ -4,4 +4,4 @@
 - Laravel 9 Rest API
 
 ## Превью
-![Превью](./preview.png)
+![Превью](./preview_2.png)
